@@ -1,0 +1,17 @@
+h1 {
+    font-family: Caveat;
+    font-size: 72pt;
+    font-weight: 700;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #DEAA79, #FFE6A9, #B1C29E, #659287);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
